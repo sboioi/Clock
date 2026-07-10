@@ -1,0 +1,25 @@
+{
+  "name": "舖頭打咭",
+  "short_name": "打咭鐘",
+  "description": "員工上班／落班打咭，同BC僱傭標準法薪金計算",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F0E2",
+  "theme_color": "#1C2333",
+  "orientation": "any",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
